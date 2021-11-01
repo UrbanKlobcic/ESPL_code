@@ -1,2 +1,2 @@
-# ESPL_code
-This is a Git tutorial for ESPL course
+# Urban Klobcic
+This is a tutorial on how to use git.
